@@ -5,7 +5,7 @@
   <a href="https://youtu.be/2IrLdypcxao"><img src="https://i.imgur.com/ETF5sFC.gif" alt="YouTube Demonstration" width="800"></a>
 </p>
 
-<p align="center">A web application that extracts text from book pages and finds what book it is from, powered by Flask, Tesseract, and Google Books API.</p>
+<p align="center">A web application for an artist, showing their song lyrics, album covers and names, how to listen to their songs on Spotify, and watch their videos on Youtube.</p>
 
 <h3>In case you want to access my web application, it is hosted here: <a href="https://www.gabechachas.com/">gabechachas.com</a></h3>
 
