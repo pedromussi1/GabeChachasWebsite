@@ -1,5 +1,5 @@
 
-<h1 align="center">Gabechachas Website</h1>
+<h1 align="center">Gabe Chachas Website</h1>
 
 <p align="center">
   <a href="https://youtu.be/2IrLdypcxao"><img src="https://i.imgur.com/ETF5sFC.gif" alt="YouTube Demonstration" width="800"></a>
