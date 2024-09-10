@@ -32,7 +32,7 @@
 <ol>
     <li><strong>Clone the Repository:</strong>
         <pre><code>git clone https://github.com/yourusername/GabeChachasWebsite.git
-cd GabeChachasWebsite</code></pre>
+cd src</code></pre>
     </li>
     <li><strong>Install Dependencies:</strong>
         <pre><code>npm install</code></pre>
