@@ -31,24 +31,15 @@
 <h2>Installation</h2>
 <ol>
     <li><strong>Clone the Repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/ocr-bookfinder-web.git
-cd ocr-bookfinder-web</code></pre>
-    </li>
-    <li><strong>Create and Activate a Virtual Environment:</strong>
-        <pre><code>python -m venv .venv
-source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`</code></pre>
+        <pre><code>git clone https://github.com/yourusername/GabeChachasWebsite.git
+cd GabeChachasWebsite</code></pre>
     </li>
     <li><strong>Install Dependencies:</strong>
-        <pre><code>pip install -r requirements.txt</code></pre>
+        <pre><code>npm install</code></pre>
     </li>
-    <li><strong>Configure Google Books API Key:</strong>
-        <ul>
-            <li>Set up your Google Books API key in a configuration file or as environment variables.</li>
-        </ul>
-    </li>
-    <li><strong>Run the Application:</strong>
-        <pre><code>python app.py</code></pre>
-        The application will start and be accessible at <code>http://127.0.0.1:5000/</code>.
+    <li><strong>Run the Development Server:</strong>
+        <pre><code>npm start</code></pre>
+        The application will start and be accessible at <code>http://localhost:3000</code>.
     </li>
 </ol>
 
