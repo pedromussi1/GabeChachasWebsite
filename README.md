@@ -60,6 +60,7 @@ cd src</code></pre>
     <li><b>fly.toml:</b> This configuration file is used by Fly.io to deploy and manage the application. It includes settings for the deployment environment, such as the application's name, the build process, and the deployment strategy.</li>
     <li><b>pages/:</b> This directory contains the main pages of the application, each represented by a React component. These components define the content and layout for different routes in the application. Key files within this directory include:</li>
     <ul>
+        <li><b>Home.js:</b> Represents the home page of the application. It displays the main sections including albums and singles, with links to their respective pages.</li>
         <li><b>SpatialAwareness.js:</b> Represents the page for the "Spatial Awareness" album. It includes the layout and content specific to this album.</li>
         <li><b>Gasoline2024.js:</b> Represents the page for the "Gasoline on my Pillow (2024)" album. It contains the layout and content specific to this album.</li>
         <li><b>Singles.js:</b> Represents the page for the "Singles" section. It displays the list of singles with links to their details.</li>
