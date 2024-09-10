@@ -75,15 +75,6 @@ cd src</code></pre>
     </ul>
 </ul>
 
-<h2>Known Issues</h2>
-<ul>
-    <li>Images with low quality or poor lighting may result in inaccurate text extraction.</li>
-    <li>The accuracy of book identification depends on the relevance of the extracted text and the Google Books database.</li>
-</ul>
-
-<h2>Contributing</h2>
-<p>Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.</p>
-
 <h2>Deployment</h2>
 <p>The application uses Docker for containerization, ensuring consistent environments across different platforms. Fly.io is used for deploying the application, providing a scalable and globally distributed infrastructure for web hosting..</p>
 
