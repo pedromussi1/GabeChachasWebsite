@@ -78,19 +78,27 @@ cd src</code></pre>
 <h2>Deployment</h2>
 <p>The application uses Docker for containerization, ensuring consistent environments across different platforms. Fly.io is used for deploying the application, providing a scalable and globally distributed infrastructure for web hosting..</p>
 
-<h2><a href="https://github.com/yourusername/ocr-bookfinder-web/blob/main/READCODE.md">Code Breakdown Here!</a></h2>
+<h2><a href="https://github.com/pedromussi1/GabeChachasWebsite/blob/main/READCODE.md">Code Breakdown Here!</a></h2>
 
-<h3>Upload Image</h3>
+<h3>Home Page</h3>
 <p align="center">
-    <img src="https://i.imgur.com/xAIAvWD.png" alt="Upload Image">
+    <img src="https://i.imgur.com/AgJJ097.png" alt="Upload Image">
 </p>
-<p>The main page allows the user to upload an image containing a book page. The application then processes this image to extract the text and identify the book.</p>
+<p>The home page show the content that is available on the website. From here you can decided if you want to go to the albums "Spatial Awareness", "Gasoline on my pillow", or the singles page.</p>
+
+<hr>
+
+<h3>Tracklists</h3>
+<p align="center">
+    <img src="https://i.imgur.com/UE1OS2Z.jpeg" alt="Results">
+</p>
+<p>After selecting one of the options in the home page, you will see the tracklist for your selection. From here you can choose which track you want, and it will show you the lyrics to the track, a link to the Spotify for that song, and a video on Youtube for that track if it is available.</p>
 
 <hr>
 
 <h3>Processed Image and Results</h3>
 <p align="center">
-    <img src="https://i.imgur.com/bbSfVCY.png" alt="Results">
+    <img src="https://i.imgur.com/3zEffQs.jpeg" alt="Results">
 </p>
 <p>After processing, the application displays the original image, the extracted text, and the best matching book information.</p>
 
