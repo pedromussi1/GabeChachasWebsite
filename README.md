@@ -7,7 +7,7 @@
 
 <p align="center">A web application that extracts text from book pages and finds what book it is from, powered by Flask, Tesseract, and Google Books API.</p>
 
-<h3>In case you want to access my web application, it is hosted here: <a href="https://ocr-bookfinder.fly.dev/">https://ocr-bookfinder.fly.dev/</a></h3>
+<h3>In case you want to access my web application, it is hosted here: <a href="https://www.gabechachas.com/">gabechachas.com</a></h3>
 
 <h2>Description</h2>
 <p>The goal of this project was to make a artist website with links to youtube video, lyrics and spotify links to every song and breakdown of the artist's discography. The program used React to build the application, Docker to package the application and its dependencies into containers and used Fly.io to deploy and host the service on the cloud.</p>
