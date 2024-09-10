@@ -2,7 +2,7 @@
 <h1 align="center">OCR Bookfinder Web</h1>
 
 <p align="center">
-  <a href="https://youtu.be/U1GcrE8YPWU"><img src="https://i.imgur.com/OTuB77Y.gif" alt="YouTube Demonstration" width="800"></a>
+  <a href="https://youtu.be/2IrLdypcxao"><img src="https://i.imgur.com/ETF5sFC.gif" alt="YouTube Demonstration" width="800"></a>
 </p>
 
 <p align="center">A web application that extracts text from book pages and finds what book it is from, powered by Flask, Tesseract, and Google Books API.</p>
@@ -10,17 +10,16 @@
 <h3>In case you want to access my web application, it is hosted here: <a href="https://ocr-bookfinder.fly.dev/">https://ocr-bookfinder.fly.dev/</a></h3>
 
 <h2>Description</h2>
-<p>The OCR BookFinder Web project is a web-based application designed to recognize text from images of book pages and identify the book based on the extracted text. The application utilizes Tesseract OCR for text extraction, OpenCV for image preprocessing, and the Google Books API for book identification. Users can upload an image of a book page, and the system will process it to display the extracted text and the best matching book from the Google Books database. This tool is particularly useful for identifying books based on pages or specific text snippets captured via images.</p>
+<p>The goal of this project was to make a artist website with links to youtube video, lyrics and spotify links to every song and breakdown of the artist's discography. The program used React to build the application, Docker to package the application and its dependencies into containers and used Fly.io to deploy and host the service on the cloud.</p>
 
 <h2>Languages and Utilities Used</h2>
 <ul>
-    <li><b>Flask:</b> Serves as the backbone of the web application, handling routing, user inputs, and rendering HTML templates.</li>
-    <li><b>Python:</b> The primary language used for integrating various functionalities like OCR and book identification.</li>
-    <li><b>OpenCV:</b> Handles preprocessing of images, such as converting images to grayscale and preparing them for OCR processing.</li>
-    <li><b>Tesseract OCR:</b> The main technology for recognizing text from images, capable of handling multiple languages.</li>
-    <li><b>pytesseract:</b> A Python wrapper for Tesseract, simplifying the integration of OCR functionalities within the application.</li>
-    <li><b>Google Books API:</b> Used to identify books based on the extracted text from the images.</li>
-    <li><b>HTML/CSS:</b> Creates the frontend of the application, providing a simple and intuitive user interface.</li>
+    <li><b>React App:</b></li>
+    <li><b>Express:</b></li>
+    <li><b>Node.js:</b></li>
+    <li><b>Docker:</b></li>
+    <li><b>Fly.io:</b></li>
+    <li><b>HTML/CSS:</b></li>
 </ul>
 
 <h2>Environments Used</h2>
