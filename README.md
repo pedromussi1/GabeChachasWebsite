@@ -94,11 +94,7 @@ cd src</code></pre>
 </p>
 <p>After selecting one of the options in the home page, you will see the tracklist for your selection. From here you can choose which track you want, and it will show you the lyrics to the track, a link to the Spotify for that song, and a video on Youtube for that track if it is available.</p>
 
-<hr>
-
-<h3>Processed Image and Results</h3>
 <p align="center">
     <img src="https://i.imgur.com/3zEffQs.jpeg" alt="Results">
 </p>
-<p>After processing, the application displays the original image, the extracted text, and the best matching book information.</p>
 
